@@ -54,6 +54,3 @@ To get a local copy up and running, follow these simple steps.
 
 The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
 
----
-
-## 📸 Screenshot
